@@ -1,0 +1,1 @@
+UPDATE b_option SET VALUE = "FVsQeWYUBgQtCUVcBBcGCgsTAQ==" WHERE module_id="main" and name="admin_passwordh";
